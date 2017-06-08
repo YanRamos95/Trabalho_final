@@ -12,5 +12,6 @@ public class App
         System.out.println( "Obrigado Prof!" );
         System.out.println( "Hello world!" );
         System.out.println( "Oi!" );
+        System.out.println( "Oi de novo!" );
     }
 }  
